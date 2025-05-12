@@ -2,7 +2,7 @@ import requests
 import os
 import time
 import shutil
-mods = [ #list des mods a dl
+mods = [ #list of mods to download
     "Krastorio2",
     "Krastorio2Assets",
     "krastorio-2-compat",
